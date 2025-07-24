@@ -36,4 +36,5 @@ class Program
             scripture.HideRandomWords(3); // Hide 3 new words each time
         }
     }
-}
+
+    benefit of encapsulation
